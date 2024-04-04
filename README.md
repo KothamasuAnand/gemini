@@ -4,3 +4,4 @@ This Accepts a post request with the
 "prompt" : "Who is Akbar"  
 }  
 You replace "Who is akbar" with your question  
+sned a post request to url: https://geminiai-gfyl.onrender.com  
